@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hello World 🌎
 
+Junior standing Computer Science 💻 student at Loyola Marymount University 🦁!
+
+Interests -> Geospatial data 🛰, Connecting geography with computer science 🏔
+
+Special Projects -> To be made public soon! 🫥
 <!--
 **gauravbasu03/gauravbasu03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
