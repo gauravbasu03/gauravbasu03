@@ -4,9 +4,9 @@ Junior standing Computer Science 💻 student at Loyola Marymount University �
 
 LinkedIn -> https://www.linkedin.com/in/gaurav-basu-2b9a26215/
 
-Projects -
+<h5><u>Projects</u></h5>
 
-Sanscript -> A programming language and compiler using Hindi keywords! Main author of this school project for my compiler class.
+**Sanscript** - A programming language and compiler using Hindi keywords! Main author of this school project for my compiler class. Will be complete May 2024
 <!--
 **gauravbasu03/gauravbasu03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
