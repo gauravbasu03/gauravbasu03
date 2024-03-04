@@ -6,7 +6,7 @@ LinkedIn -=- https://www.linkedin.com/in/gaurav-basu-2b9a26215/
 
 <h2><u>Projects</u></h2>
 
-<h3> [Sanscript](https://github.com/devrai21/Sanscript) </h3> 
+<h3> Sanscript </h3> 
 A programming language and compiler using Hindi keywords! Main author of this school project for my compiler class. Will be complete May 2024
 <!--
 **gauravbasu03/gauravbasu03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
