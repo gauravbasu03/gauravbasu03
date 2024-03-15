@@ -1,6 +1,6 @@
 ### Hello World 🌎
 
-Junior standing Computer Science student at Loyola Marymount University 🦁!
+Junior standing Computer Science student at Loyola Marymount University.
 
 -=- [LinkedIn](https://www.linkedin.com/in/gaurav-basu-2b9a26215/) -=- 
 
