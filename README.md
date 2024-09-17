@@ -6,10 +6,10 @@ Senior standing Computer Science student at Loyola Marymount University.
 
 <h2><u>Projects</u></h2>
 
-<h3> Sanscript </h3> 
+<h3> [Sanscript](https://github.com/anikambhatnagar/Sanscript) </h3> 
 A programming language and compiler using Hindi keywords! Main author of this school project for my compiler class. 
 
-<h3> WordMap </h3>
+<h3> [WordMap](https://github.com/Abhi-Gan/LatitudeWithAttitude) </h3>
 Second place hackathon winner out of fifteen groups utilizing Esri technology. Analyzes user queries and returns related events through OpenAI api, ArcGIS API for Javascript, React, HTML, CSS.
 <!--
 **gauravbasu03/gauravbasu03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
