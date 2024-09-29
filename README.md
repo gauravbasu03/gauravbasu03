@@ -2,6 +2,8 @@
 
 Senior standing Computer Science student at Loyola Marymount University.
 
+-=- [Portfolio](https://gauravbasu03.github.io/) -=-
+
 -=- [LinkedIn](https://www.linkedin.com/in/gaurav-basu-2b9a26215/) -=- 
 
 <h2><u>Projects</u></h2>
