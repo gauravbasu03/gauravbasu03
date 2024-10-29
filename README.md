@@ -1,4 +1,3 @@
-### Hello World 🌎
 
 Senior standing Computer Science student at Loyola Marymount University.
 
