@@ -9,7 +9,7 @@ Senior standing Computer Science student at Loyola Marymount University.
 
 [Sanscript](www.github.com/anikambhatnagar/Sanscript)
 
-A programming language and compiler using Hindi keywords! Main author of this school project for my compiler class. 
+A programming language and compiler using Hindi keywords! 
 
 [WordMap](www.github.com/Abhi-Gan/LatitudeWithAttitude)
 
